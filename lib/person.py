@@ -3,8 +3,6 @@
 class Person:
 #   Class body goes here
     def talk(self):
-        print("Hello World!")
-
-    #Instance method definition
+        print ("Hello World!")
     def walk(self):
-        print("The person is walking.")
+        print ("The person is walking.")
